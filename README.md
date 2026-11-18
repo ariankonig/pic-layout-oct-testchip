@@ -5,7 +5,7 @@ A learning project in photonic integrated circuit (PIC) layout with
 from a first Mach-Zehnder interferometer to a complete test chip with a spiral delay line,
 an arrayed waveguide grating (AWG) spectrometer, grating couplers and a design rule check.
 
-![Full test chip in KLayout](images/full_chip.png)
+![Full test chip in KLayout](images/oct_system.png)
 
 ## Motivation
 
